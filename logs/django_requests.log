@@ -1,0 +1,281 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/music_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+Not Found: /200
+"GET /200 HTTP/1.1" 404 2437
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Not Found: /200
+"GET /200 HTTP/1.1" 404 2437
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/music_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/music_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/music_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/music_project/settings.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/views.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /contact
+"GET /contact HTTP/1.1" 403 25
+Forbidden: /contact
+"GET /contact HTTP/1.1" 403 25
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+Not Found: /contact
+"GET /contact HTTP/1.1" 404 2706
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+Not Found: /contact
+"GET /contact HTTP/1.1" 404 2706
+Not Found: /contact
+"GET /contact HTTP/1.1" 404 2706
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /
+"GET / HTTP/1.1" 403 25
+Not Found: /contact
+"GET /contact HTTP/1.1" 404 2706
+Not Found: /contact
+"GET /contact HTTP/1.1" 404 2706
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/urls.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /contact HTTP/1.1" 301 0
+Forbidden: /contact/
+"GET /contact/ HTTP/1.1" 403 25
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /contact/
+"GET /contact/ HTTP/1.1" 403 25
+Forbidden: /contact/
+"GET /contact/ HTTP/1.1" 403 25
+Forbidden: /contact/
+"GET /contact/ HTTP/1.1" 403 25
+Forbidden: /contact/
+"GET /contact/ HTTP/1.1" 403 25
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /contact/ HTTP/1.1" 200 3
+"GET /contact/ HTTP/1.1" 200 3
+"GET /contact/ HTTP/1.1" 200 3
+"GET /contact/ HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 302 0
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 302 0
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 2718
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+/Users/a.burkhanuly/Documents/Python_sabak/Django/Homework_django/music_project/middlewaretest/middleware.py changed, reloading.
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+Too Many Requests: /
+"GET / HTTP/1.1" 429 76
+"GET / HTTP/1.1" 200 3
+"GET / HTTP/1.1" 200 3
